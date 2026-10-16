@@ -1,4 +1,4 @@
-# Cifra de César com Progressões Matemáticas (Atividade Avaliativa 02)
+# Cifra de César com Progressões Matemáticas
 
 Projeto da disciplina de Algoritmo e Pensamento Computacional, desenvolvido em linguagem C.
 
